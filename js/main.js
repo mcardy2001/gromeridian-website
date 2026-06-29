@@ -1,4 +1,4 @@
-/* GroMeridian — Main JS */
+/* GrowMeridian — Main JS */
 document.addEventListener('DOMContentLoaded', () => {
   // Mobile menu toggle
   const toggle = document.querySelector('.menu-toggle');
